@@ -45,6 +45,7 @@ The **Love Quotes Website** is a simple yet elegant web application that display
 
 🚀LIVE SITE:- https://sasi-upparapalli.github.io/SISA-Love-Quotes/
 🚀REPOSITORY :- https://github.com/sasi-upparapalli/SISA-Love-Quotes.git
+🚀Linkidin link:-https://www.linkedin.com/posts/sasikanth-upparapalli_task-1-building-my-foundation-in-web-activity-7282758559451238400-eJqV?utm_source=share&utm_medium=member_desktop
 
 
 ## 💖 Acknowledgments
